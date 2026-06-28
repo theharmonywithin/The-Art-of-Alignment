@@ -1,2 +1,2 @@
-# The-Art-of-Alignment
+# TheArtofAlignment
 Holistic 
